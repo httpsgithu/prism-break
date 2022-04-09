@@ -6,7 +6,7 @@
     "lodash.isequal": "4.5.0",
     "marked": "^0.7.0",
     "mkdirp": "0.5.1",
-    "moment": "2.22.2",
+    "moment": "2.29.2",
     "nib": "1.1.2",
     "prelude-ls": "1.1.2",
     "pug": "2.0.3",
